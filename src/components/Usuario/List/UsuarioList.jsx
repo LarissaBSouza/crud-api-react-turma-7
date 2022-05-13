@@ -60,7 +60,7 @@ function UsuarioList(props) {
                 successDelete
                     ?
                     <Alert key='success' variant='success'>
-                        <FaCheck size="20" margin-left="10"/> Item apagado com suceso
+                        <FaCheck size="20" margin-left="10"/> Usuário apagado com sucesso!
                     </Alert>
                     :
                     ''
