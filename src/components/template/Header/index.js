@@ -10,10 +10,10 @@ function Header(props) {
                 <Container>
                     <Navbar.Brand href="/home">CRUD React</Navbar.Brand>
                     <Nav className="me-auto">
-                        <Link to="/home" className="nav-link">Home</Link>
-                        <Link to="/about" className="nav-link">About</Link>
-                        <Link to="/register" className="nav-link">Customer</Link>
-                        <Link to="/listcustomer" className="nav-link">List Customer</Link>
+                        <Link to="/home" className="nav-link">Página Inicial</Link>
+                        <Link to="/about" className="nav-link">Sobre</Link>
+                        <Link to="/register" className="nav-link">Cadastro de Usuários</Link>
+                        <Link to="/listcustomer" className="nav-link">Lista de Usuários</Link>
                         <Link to="/editcustomer" className="nav-link">Edit Customer</Link>
                     </Nav>
                 </Container>

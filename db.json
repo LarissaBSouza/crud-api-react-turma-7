@@ -33,14 +33,6 @@
   ],
   "customer": [
     {
-      "name": "André",
-      "age": "28",
-      "document": "123456789",
-      "tel": "19245-545",
-      "state": 1,
-      "id": 1
-    },
-    {
       "name": "Will",
       "age": "38",
       "document": "123456789",
